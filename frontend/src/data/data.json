@@ -1,0 +1,349 @@
+{
+  "custom_messages": {
+    "introduction_text": "Welcome to the breast cancer tutoring system.  We will talk and learn about breast cancer together.",
+    "completion_text": "Congratulations on your hard work!",
+    "end_session_text": "Great work today.  See you again soon!"
+  },
+  "units": [
+    {
+      "unit_id": 1,
+      "unit_name": "Strategies for Managing side effects of surgery",
+      "topics": [
+        {
+          "topic_id": 1,
+          "topic_name": "Lymphedema",
+          "contents": [
+            {
+              "paragraph_id": 1,
+              "text": "The lymph system is part of the body’s immune system. Lymph vessels carry a clear fluid called lymph. Lymph fluid contains white blood cells. Those white blood cells help fight infections throughout the body by sending nodes as small as little beans throughout the body. The nodes attack and destroy the germs that are carried through the lymph fluid. Lymph nodes can be found in the neck, chest, armpits, groin and stomach. Damaged lymph vessels caused by radiation treatment can result in too much lymph fluid in the tissues which cause swelling. Cancer will spread to the body using the lymph system and will form new tumors. The cancer cells will attach to the nodes around it. The nodes will grow bigger and can get big enough to feel with your fingers.",
+              "question": "Can you tell me about lymph fluid and how it relates to cancer?",
+              "alt_question": [
+                "Can you explain to me what lymph nodes might look like when they are infected?",
+                "The lymph nodes in the body are made to fight infections. How do you think they react when it comes in contact with cancer?"
+              ],
+              "keywords": ["lymph", "nodes"],
+              "intro": [
+                "The lymph system is part of the body’s immune system. Lymph vessels carry a clear fluid called lymph.",
+                "Lymph fluid contains white blood cells."
+              ],
+              "outro": [
+                "The nodes attack and destroy the germs that are carried through the lymph fluid",
+                "lymph fluid contains white blood cells. Those white blood cells help fight infections"
+              ]
+            },
+            {
+              "paragraph_id": 2,
+              "text": "Lymphedema is swelling due to build-up of lymph fluid in the body that usually occurs in arms or legs, sometimes both.  Radiation can cause damage to the lymphatic system. Commonly caused by the removal of or damage to your lymph nodes. Lymphedema can last for a few months or for years after your surgery. Lymphedema is incurable, but it can be treated and controlled. Lymphedema can be treated with a sleeve or exercises. It would be best to consult your doctor, lymphedema has a number of possible causes to cancer, cardiovascular diseases, inflammatory conditions or injury.",
+              "text_alt": ["Can you tell me about lymphedema?"],
+              "question": "Can you tell me about lymphedema?",
+              "alt_question": [
+                "I’ve heard there can be swelling in the arms and legs, do you know anything about that? are there any solutions?",
+                "Have you heard about lymphedema? what is it, can it be cured?"
+              ],
+              "keywords": ["lymphedema", "swelling"]
+            },
+            {
+              "paragraph_id": 3,
+              "text": "If not removed or treated, a breast cancer tumor can spread to other parts of the body and become lethal. But there are wide variety of option for treatment and majority of women are cured of breast cancer",
+              "text_alt": [
+                "Breast cancer tumor can spread to other parts of the body and become lethal if its not removed or treated. But there are wide variety of option for treatment and majority of women are cured of breast cancer",
+                "Majority of women are cured with treatment, if not treated, a breast cancer tumor can spread to other parts of the body and become lethal."
+              ],
+              "question": "What happens if a malignant tumor is not removed?",
+              "alt_question": [
+                "What happens if a tumor is discovered?",
+                "Can you have a life if you have a tumor?"
+              ],
+              "keywords": ["treatment", "cancer"]
+            },
+            {
+              "paragraph_id": 4,
+              "text": "It is common for women to experience some concerns or side effects after they complete the main part of their cancer treatment (pain, fatigue, difficulty sleeping, hot flashes, worry). These side effects can lower your quality of life.",
+              "text_alt": [],
+              "question": "What are some common side effects after cancer treatment?",
+              "alt_question": [
+                "After treatment, do you feel down? what else do you feel?",
+                "What can you experience after cancer treatment? how do you feel?"
+              ],
+              "keywords": ["cancer"]
+            },
+            {
+              "paragraph_id": 5,
+              "text": "These days, there are many treatment options for breast cancer. For the majority of women, breast cancer is not a death sentence. If the cancer has not spread to other organs, the 5-year survival rate is 90%.",
+              "text_alt": [],
+              "question": "What is the breast cancer survival rate?",
+              "alt_question": ["Can women survive breast cancer?"],
+              "keywords": ["effects", ""]
+            }
+          ]
+        },
+        {
+          "topic_id": 2,
+          "topic_name": "Staging and clinical characteristics of cancer",
+          "contents": [
+            {
+              "paragraph_id": 1,
+              "text": "You may have heard the words \"cancer stage\" before, either from your doctor, nurse, or other women who have had cancer. Breast cancer is grouped, or classified, into several stages. These stages range from I (one) to IV (four).",
+              "text_alt": [],
+              "question": "How many stages of breast cancer are there?",
+              "alt_question": [
+                "do you know about the stages of cancer?",
+                "have you talked about cancer stages with someone? what can you tell me about it?"
+              ],
+              "keywords": ["one", "four", "stage"]
+            },
+            {
+              "paragraph_id": 2,
+              "text": "The stage of your breast cancer depends on the size of your tumor and whether it has spread to other parts of the body. The stage of your breast cancer is usually determined after your surgery.",
+              "text_alt": [],
+              "question": "What factors are used to determine the stage of breast cancer?",
+              "alt_question": ["", ""],
+              "keywords": ["size", "spread"]
+            },
+            {
+              "paragraph_id": 3,
+              "text": "Breast cancer that is Stage I (one) or II (two) is considered early-stage breast cancer.",
+              "text_alt": [],
+              "question": "What is another name for Stage I and Stage II breast cancer?",
+              "alt_question": ["", ""],
+              "keywords": ["early stage"]
+            },
+            {
+              "paragraph_id": 4,
+              "text": "Breast cancer that is Stage III is locally advanced breast cancer.",
+              "text_alt": [],
+              "question": "What is another name for Stage III breast cancer?",
+              "alt_question": ["", ""],
+              "keywords": ["locally advanced"]
+            },
+            {
+              "paragraph_id": 5,
+              "text": "Breast cancer that is Stage IV is advanced cancer that has spread to other parts of the body, such as the liver, lungs, or brain. Stage IV breast cancer is also called metastatic breast cancer.",
+              "text_alt": [],
+              "question": "What is another name for Stage IV breast cancer, and what does this name mean?",
+              "alt_question": ["", ""],
+              "keywords": ["metastatic", "spread"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "unit_name": "Surgery",
+      "topics": [
+        {
+          "topic_id": 1,
+          "topic_name": "Mastectomy and Lumpectomy",
+          "contents": [
+            {
+              "paragraph_id": 1,
+              "text": "Surgery is the most common treatment for breast cancer. There are two kinds of surgery, lumpectomy and mastectomy. Mastectomy is the removal of the breast and Lumpectomy is the removal of the nipple. Both are very common and generally have success at removing the breast cancer tumor. In general, surgery in addition to radiation treatment is successful for about 80% of women.",
+              "text_alt": [],
+              "question": "Can you tell me about surgical treatments for breast cancer?",
+              "alt_question": [
+                "What can you tell me about surgery for breast cancer?",
+                "I believe there are two main kinds of surgeries for breast cancer, can you tell me about them"
+              ],
+              "keywords": ["lumpectomy", "mastectomy", "breast", "nipple"]
+            },
+            {
+              "paragraph_id": 2,
+              "text": "Pain or tenderness of the surgery site, swelling at the surgery site. Buildup of blood in the wound (hematoma). Buildup of clear fluid in the wound (seroma). Limited arm or shoulder movement. Numbness in the chest or upper arm",
+              "text_alt": [],
+              "question": " Can you tell me about some common side effects of surgeries for breast cancer",
+              "alt_question": [
+                "Can you tell me about some of the goals of surgery for breast cancer"
+              ],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 3,
+              "text": "Surgery is usually done to remove as much of the cancer as possible",
+              "text_alt": [],
+              "question": "Can you tell me about why surgery is a common treatment for breast cancer?",
+              "alt_question": [
+                "Can you tell me about some of the goals of surgery for breast cancer"
+              ],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 4,
+              "text": "Lumpectomy is a type of surgery to remove the cancer tumor while saving the nipple and as much of the breast as possible. Depending on how much the cancer has spread, removal of some lymph nodes might also take place during a lumpectomy. A lumpectomy is also called breast conserving surgery.",
+              "text_alt": [],
+              "question": "Can you tell me about lumpectomy",
+              "alt_question": [
+                "Do you remember what surgery or operation that removes the nipple",
+                "I know there are two surgeries: lumpectomy and mastectomy. Do you remember which one removes the nipple"
+              ],
+              "keywords": ["lumpectomy", "breast", "nipple", "surgery"]
+            },
+            {
+              "paragraph_id": 5,
+              "text": "A mastectomy is a type of surgery to remove the entire breast. There are several types of mastectomies. Some mastectomies remove all of the breast tissue, including the nipple and areola. Other types of mastectomies also remove some of the nearby lymph nodes if they are at high risk for cancer.",
+              "text_alt": [],
+              "question": "Can you tell me about mastectomy",
+              "alt_question": [
+                "Do you remember what surgery or operation removes the entire/whole breast",
+                " I know there are two surgeries: lumpectomy and mastectomy. Do you remember which one removes the entire/whole breast"
+              ],
+              "keywords": ["mastectomy", "cancer", "breast", "surgery"]
+            },
+            {
+              "paragraph_id": 6,
+              "text": "If you have had a mastectomy, you have a choice about whether or not to have surgery to rebuild the shape of the breast, called breast reconstruction, wear a breast prosthesis, wear padding inside your bra, or choose to not take any action.",
+              "text_alt": [],
+              "question": "Can you tell me about your options after a mastectomy",
+              "alt_question": [
+                "Can you tell me about surgical and non-surgical treatments available to patients after a mastectomy",
+                " Sometimes, breast cancer survivors want to maintain their physical appearance after surgery. Can you tell me about some of the options breast cancer survivors have after a mastectomy"
+              ],
+              "keywords": [
+                "mastectomy",
+                "cancer",
+                "breast",
+                "reconstruction",
+                "prosthesis"
+              ]
+            },
+            {
+              "paragraph_id": 7,
+              "text": "In breast reconstruction, the surgeon will try to rebuild the shape of the breast. A reconstructed breast will not look or feel the same as a natural breast. It will not be a normally functioning breast and will have little to no feeling to the touch. Some women may not have a nipple or areola on their reconstructed breast. However, a nipple and areola can be added during another surgery. Some possible risks to breast reconstruction surgery include bleeding, infection, poor healing of incisions (scarring) and anesthesia risks. Breast reconstruction may be done at the same time as the mastectomy, or it may be done in the future. The type of reconstruction that is best for you depends on your age, body type, and the type of cancer surgery that you had. If you are thinking about having breast reconstruction, your doctor can provide you with some photos of what reconstructed breasts look like so that you know what to expect.",
+              "text_alt": [],
+              "question": "Can you tell me about breast reconstruction",
+              "alt_question": [
+                "Can you tell me about a surgical procedure that can be done after a mastectomy"
+              ],
+              "keywords": [
+                "mastectomy",
+                "cancer",
+                "breast",
+                "reconstruction",
+                "surgery"
+              ]
+            },
+            {
+              "paragraph_id": 8,
+              "text": "A breast prosthesis is a device that replaces the breast. It can match the shape of your original breast. A prosthesis can be worn against the skin, inside the pocket of a mastectomy bra, or attached to the chest wall. Prosthetic devices are designed to look feminine while ensuring comfort.",
+              "text_alt": [],
+              "question": "Can you tell me about breast prosthesis and how it is used",
+              "alt_question": [
+                "Sometimes, women do not want breast reconstruction surgery after a mastectomy. Can you tell me about other options"
+              ],
+              "keywords": ["prosthesis", "breast"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "unit_name": "Radiation Therapy",
+      "topics": [
+        {
+          "topic_id": 1,
+          "topic_name": "Radiation Therapy",
+          "contents": [
+            {
+              "paragraph_id": 1,
+              "text": "Radiation therapy uses high-energy radiation to kill cancer cells. The goal of radiation therapy is to kill any cancer cells that might still be in the body even after your surgery. Radiation therapy lowers the chances of cancer coming back. The radiation is directed at the tumor and does not affect the rest of your body. Radiation therapy is usually given after surgery. Women usually have radiation therapy after a lumpectomy, but it’s sometimes done after mastectomy. Some side effects may include firmness or shrinking of the breast, mild changes to the color of the breasts, redness, skin peeling, darkening, and fatigue.",
+              "text_alt": [],
+              "question": "Can you tell me about radiation therapy",
+              "alt_question": [
+                "Radiation therapy uses high energy radiation to kill cancer cells and is usually given after a procedure. What may be some side effects of radiation therapy"
+              ],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 2,
+              "text": "cancer 2",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 3,
+              "text": "cancer 3",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 4,
+              "text": "cancer 4",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 5,
+              "text": "cancer 5",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "unit_name": "Surgery",
+      "topics": [
+        {
+          "topic_id": 1,
+          "topic_name": "Mastectomy and Lumpectomy",
+          "contents": [
+            {
+              "paragraph_id": 1,
+              "text": "cancer 1",
+              "text_alt": [],
+              "question": "Can you tell me about surgical treatments for breast cancer?",
+              "alt_question": [
+                "What can you tell me about surgery for breast cancer?",
+                ""
+              ],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 2,
+              "text": "cancer 2",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 3,
+              "text": "cancer 3",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 4,
+              "text": "cancer 4",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            },
+            {
+              "paragraph_id": 5,
+              "text": "cancer 5",
+              "text_alt": [],
+              "question": "Question",
+              "alt_question": ["", ""],
+              "keywords": ["", ""]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

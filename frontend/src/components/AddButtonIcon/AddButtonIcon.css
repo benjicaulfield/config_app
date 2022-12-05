@@ -1,0 +1,19 @@
+.add-button {
+  color: lightblue;
+  margin: auto 0;
+  margin-left: 2vw;
+  align-items: center;
+}
+
+.add-button:hover {
+  opacity: 50%;
+  cursor: pointer;
+}
+
+.add-button-icon-text {
+  display: inline-block;
+  line-height: normal;
+  vertical-align: middle;
+  margin-left: 1vw;
+  margin-bottom: 3vh;
+}

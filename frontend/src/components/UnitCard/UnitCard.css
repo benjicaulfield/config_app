@@ -1,0 +1,8 @@
+.unit-card {
+  border-color: lightblue;
+  border-radius: 8px;
+  border-style: solid;
+  padding: 10px;
+  margin: 20px;
+  border-width: 1vh;
+}

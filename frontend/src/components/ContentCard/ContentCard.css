@@ -1,0 +1,16 @@
+.content-card {
+  border-style: solid;
+  border-radius: 8px;
+  border-color: black;
+  width: 16vw;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.content-card:hover {
+  opacity: 40%;
+  cursor: pointer;
+}
